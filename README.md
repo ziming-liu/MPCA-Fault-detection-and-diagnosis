@@ -11,3 +11,18 @@
 
 
 其他为调用的子函数
+
+
+if you use this code in your work, please cite 
+
+```
+@misc{liu2019multipca,
+      title={Multi-PCA based Fault Detection Model Combined with Prior knowledge of HVAC}, 
+      author={Ziming Liu and Xiaobo Liu},
+      year={2019},
+      eprint={1911.13263},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
